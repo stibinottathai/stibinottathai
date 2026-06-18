@@ -8,6 +8,10 @@ on:
     branches:
     - main
 
+# This line is the magic fix for Error 1 (exit code 128)
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -25,7 +29,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Updated to v4 to fix Error 2 (Node.js warning)
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
