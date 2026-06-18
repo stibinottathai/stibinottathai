@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-* 💻 **Currently working on:** A comprehensive expense tracker using Flutter & Google Sheets, and launching an e-commerce platform for refurbished electronics.
+* 💻 **Currently working on:** an event management website, and launching an e-commerce platform for refurbished electronics.
 * 🌱 **Currently exploring:** Advanced Web3 integrations, decentralized platforms, and modern glassmorphism UI/UX design.
 * 💼 **Open to:** Software Engineering roles, particularly in Dubai. 
 * ⚡ **Fun fact:** I love tracking the markets, analyzing crypto trends, and admiring high-end automotive engineering.
@@ -23,11 +23,21 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
+  <!-- Languages & Frontend -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br>
+
+  <!-- Backend, Cloud & Others -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
 </div>
 
