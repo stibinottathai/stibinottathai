@@ -1,114 +1,128 @@
 <div align="center">
 
-# Hi, I'm Stibin Augustine 👋
+# Stibin Augustine
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Flutter+Developer+%7C+4%2B+Years+Experience;Fintech+%7C+GovTech+%7C+Enterprise+Apps;Next.js+%7C+TypeScript+%7C+Firebase;Based+in+Dubai+%E2%80%94+Open+to+Opportunities)](https://stibin.online)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4D9FFF&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+4%2B+Years+Experience;Flutter+Developer+%E2%80%94+Mobile+%26+Web;Web+Developer+%E2%80%94+React+%26+Next.js;Based+in+Dubai+%E2%80%94+Open+to+Opportunities)](https://stibin.online)
 
-**I build production-grade cross-platform apps — from a Qatar Olympic Committee HR platform to a cross-border remittance app serving UAE residents.**
+I build production software end to end — a **Qatar Olympic Committee HR platform** in Flutter,<br/>a **cross-border remittance app** for UAE residents, and full-stack products on **Next.js**.
 
-[![Website](https://img.shields.io/badge/Portfolio-stibin.online-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black)](https://stibin.online)
-[![Email](https://img.shields.io/badge/Email-stibinaugustine3047@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stibinaugustine3047@gmail.com)
-[![Location](https://img.shields.io/badge/Dubai,_UAE-Available_Immediately-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://stibin.online)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-stibin.online-4D9FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stibin.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stibinaugustine3047@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 🚀 What I've Shipped
+> [!NOTE]
+> **Open to Full Stack / Flutter / Front-End roles in Dubai & the UAE.** On a visit visa — available to join immediately.
+
+<br/>
+
+## Selected Work
+
+### 🏅 Khadoom — Qatar Olympic Committee
+Enterprise HR platform covering leave, approvals, delegations and grievances for QOC staff. Built on Clean Architecture with a 30-component internal UI library that cut feature development time by roughly 25%.
+
+`Flutter` `Mobile + Web` `Riverpod` `Clean Architecture` `REST` `Arabic / RTL`
+
+### 💸 LM Pay — Cross-Border Remittance
+Money-transfer platform for UAE residents sending funds to 10+ countries. Payment gateway integration, KYC compliance flows, and real-time multi-currency rates.
+
+`Flutter` `Provider` `MVVM` `Payment Gateway` `KYC`
+
+### 🛒 ReVault — Full-Stack E-Commerce
+Storefront and admin suite for refurbished electronics: faceted search, multi-role admin access, persistent cart, and order plus stock management.
+
+`Next.js 14` `TypeScript` `Tailwind` `Firebase`
+
+### 🏗️ Site Ledger — Construction Management *(in development)*
+Offline-first field app for construction sites: expenses, labour attendance, inventory and daily progress, with conflict-safe sync when connectivity returns.
+
+`Flutter` `Drift / SQLite` `Offline-First`
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br/>
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏅 **Khadoom** — Qatar Olympic Committee | Enterprise HR platform (leave, approvals, delegations, grievances) for QOC staff. Built with Clean Architecture + a 30-component reusable UI library that cut feature dev time ~25% | Flutter (Mobile + Web), Riverpod, REST APIs |
-| 💸 **LM Pay** — Cross-Border Remittance | Money-transfer platform for UAE residents sending funds to 10+ countries. Payment gateway, KYC compliance, real-time multi-currency rates | Flutter, Provider, MVVM |
-| 🛒 **ReVault** — E-Commerce Platform | Full-stack store for refurbished electronics: advanced search, multi-admin roles, cart persistence, order + stock management | Next.js 14, TypeScript, Tailwind, Firebase |
-| 🤖 **Smart Wallet** — AI Expense Tracker | Records income/expenses and uses AI to analyse spending patterns with actionable insights and bill reminders | Flutter, Firebase |
-| 🧾 **QuickReceipt** — Billing & Business App | Invoicing, inventory, and daily operations for retailers and small businesses in a single app | Flutter, Firebase |
-| 🔐 **Personal Password Manager** | Zero-trust, client-side AES-256 encryption — credentials never leave the browser unencrypted | Next.js, Web Crypto API |
-| 🏗️ **Site Ledger** *(in development)* | Offline-first construction site management: expenses, labor attendance, inventory, daily progress | Flutter, Drift/SQLite |
-| 📰 **Daily Updates News** | Article publishing platform — trending feeds, SEO-optimised, 9 content categories | Next.js, Supabase, Tailwind |
+| **Smart Wallet** | AI-assisted expense tracker — spending analysis, actionable insights, bill reminders | Flutter · Firebase |
+| **QuickReceipt** | Billing, invoicing and inventory for retailers, with Bluetooth printer support | Flutter · Firebase |
+| **Password Manager** | Zero-trust vault — client-side AES-256, credentials never leave the browser unencrypted | Next.js · Web Crypto API |
+| **Daily Updates News** | Article publishing platform — trending feeds, 9 categories, SEO-optimised | Next.js · Supabase · Tailwind |
 
----
+</details>
 
-## 💼 Experience Snapshot
+<br/>
 
-- **App Station (Applab, Qatar)** — Flutter Developer · Sep 2024 – Feb 2026 · Built and delivered Khadoom for the Qatar Olympic Committee
-- **Active Lobby** — Flutter Developer · Oct 2022 – Sep 2024 · Co-developed LM Pay remittance platform for UAE clients
-- **Tazy Solutions** — Flutter Developer · Jan 2022 – Oct 2022 · Blood donation management app with Firebase + FCM
+## Experience
 
-**Domains:** Fintech · GovTech · Enterprise · E-Commerce &nbsp;|&nbsp; **Extras:** RTL/Arabic UI experience · AI-assisted (agentic) coding workflows
+**Flutter Developer** — App Station (Applab) · Qatar · *Sep 2024 – Feb 2026*
+Delivered Khadoom for the Qatar Olympic Committee, including the shared design system and Arabic/RTL support.
 
----
+**Flutter Developer** — Active Lobby · *Oct 2022 – Sep 2024*
+Co-built the LM Pay remittance platform for UAE clients across payments, compliance and live FX.
 
-## 🛠️ Tech Stack
+**Flutter Developer** — Tazy Solutions · *Jan 2022 – Oct 2022*
+Blood donation management app with Firebase and push-notification matching.
+
+**Domains** — Fintech · GovTech · Enterprise · E-Commerce · Healthcare
+
+<br/>
+
+## Stack
 
 <div align="center">
 
-**Mobile (Primary)**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge&logo=flutter&logoColor=black" alt="Riverpod" />
-<img src="https://img.shields.io/badge/Bloc-1389FD?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
-
-**Web**
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-**Backend & Cloud**
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS Code" />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
----
+| | |
+|---|---|
+| **Mobile** | Flutter · Dart · Riverpod · Bloc · Drift/SQLite · Play Console releases |
+| **Web** | Next.js 14 · React · TypeScript · Tailwind CSS · Vercel |
+| **Backend & Data** | Firebase · Supabase · Node.js · Python · REST APIs |
+| **Practice** | Clean Architecture · MVVM · Arabic/RTL · SEO · Agentic AI workflows |
 
-## 🧭 Currently
+<br/>
 
-- 🔭 Building **Site Ledger** — offline-first construction management app
-- 🌱 Expanding into **backend development** with Python and Node.js
-- 💼 **Open to:** Flutter / Front-End roles in Dubai & UAE — on visit visa, available to join immediately
+## Currently
 
----
+- Building **Site Ledger** — offline-first construction site management
+- Deepening backend work with **Node.js** and **Python**
+- Running **[Brandova Studio](https://brandovastudio.com)** — branding, portfolios and app development
 
-## 📊 GitHub Stats
+<br/>
+
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stibinottathai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stibinottathai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D" alt="Top Languages" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stibinottathai&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=stibinottathai&show_icons=true&theme=transparent&hide_border=true&title_color=4D9FFF&icon_color=4D9FFF&text_color=8B949E" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stibinottathai&layout=compact&theme=transparent&hide_border=true&title_color=4D9FFF&text_color=8B949E" alt="Top Languages" width="41%" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stibinottathai/stibinottathai/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stibinottathai/stibinottathai/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stibinottathai/stibinottathai/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
----
+**Let's build something together.**
 
-<div align="center">
-  <b>Let's build something together.</b> Reach me at <a href="mailto:stibinaugustine3047@gmail.com">stibinaugustine3047@gmail.com</a> or via <a href="https://stibin.online">stibin.online</a>
+[stibin.online](https://stibin.online) &nbsp;·&nbsp; [stibinaugustine3047@gmail.com](mailto:stibinaugustine3047@gmail.com) &nbsp;·&nbsp; Dubai, UAE
+
 </div>
